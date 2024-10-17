@@ -11,3 +11,5 @@ var buyChoco = function(prices, money) {
 };
 
 console.log(buyChoco(prices,money))
+
+

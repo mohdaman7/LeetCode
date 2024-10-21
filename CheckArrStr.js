@@ -17,4 +17,6 @@ var arrayStringsAreEqual = function(word1, word2) {
     
 };
 
+
+
 console.log(arrayStringsAreEqual(word1,word2))

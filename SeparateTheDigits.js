@@ -13,3 +13,5 @@ var separateDigits = function(nums) {
 };
 
 console.log(separateDigits(nums))
+
+

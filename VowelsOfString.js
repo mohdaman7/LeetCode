@@ -24,3 +24,5 @@ var halvesAreAlike = function(s) {
 };
 
 console.log(halvesAreAlike(s))
+
+

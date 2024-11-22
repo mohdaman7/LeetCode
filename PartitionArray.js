@@ -20,3 +20,5 @@ var pivotArray = function(nums, pivot) {
     
 };
 console.log(pivotArray(nums,pivot))
+
+

@@ -12,3 +12,4 @@ var firstPalindrome = function(words) {
 };
 
 console.log(firstPalindrome(words))
+

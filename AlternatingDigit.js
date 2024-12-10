@@ -13,3 +13,4 @@ var alternateDigitSum = function(n) {
 };
 
 console.log(alternateDigitSum(n))
+

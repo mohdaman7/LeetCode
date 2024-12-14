@@ -1,5 +1,6 @@
 
 let nums1 = [2,3,2], nums2 = [1,2];
+
 var findIntersectionValues = function(nums1, nums2) {
     let count1 = 0;
     let count2 = 0;
@@ -16,4 +17,5 @@ var findIntersectionValues = function(nums1, nums2) {
     return [count1,count2]
     
 };
+
 console.log(findIntersectionValues(nums1,nums2))

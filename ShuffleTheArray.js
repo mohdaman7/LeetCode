@@ -15,3 +15,4 @@ var shuffle = function(nums, n) {
     return res
 };
 console.log(shuffle(nums,n))
+ I

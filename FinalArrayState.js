@@ -10,3 +10,4 @@ var getFinalState = function(nums, k, multiplier) {
     return nums
 };
 console.log(getFinalState(nums, k, multiplier))
+

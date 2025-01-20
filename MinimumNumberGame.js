@@ -12,3 +12,4 @@ var numberGame = function(nums) {
     return arr
 };
 console.log(numberGame(nums))
+

@@ -11,7 +11,7 @@ var arithmeticTriplets = function(nums, diff) {
                 }
             }
         }
-    }
+    } 
     return count
 };
 

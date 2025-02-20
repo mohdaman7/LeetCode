@@ -58,6 +58,4 @@ var findTheDistanceValue = function(arr1, arr2, d) {
 console.log(findTheDistanceValue(arr1,arr2,d))
 
 
-
-
  
